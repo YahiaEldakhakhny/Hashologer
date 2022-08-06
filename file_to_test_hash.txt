@@ -1,0 +1,2 @@
+This file is only used to test the hashing function and perform any other tests that may be needed
+so just ignore this file :)
